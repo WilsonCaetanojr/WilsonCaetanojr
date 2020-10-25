@@ -8,6 +8,6 @@
 ### :bar_chart: My activity on github:
 <div>
     <a href="https://github.com/WilsonCaetanojr?tab=repositories">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonCaetanojr&layout=compact&theme=dracula" width="400" height="200"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonCaetanojr&layout=compact&theme=dark" width="400" height="200"/>
     </a>
 </div>
