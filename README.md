@@ -1,7 +1,7 @@
 ### Hi there 👋 
 - :computer: I’m study in college **FATEC - Analysis and systems development**
 - 🔭 I’m currently working on **Qyon**
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Typescript**
 - ⚡ Fun fact: **passionate about technology**
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilsonxcaetano/)](https://www.linkedin.com/in/wilsonxcaetano/)
 
