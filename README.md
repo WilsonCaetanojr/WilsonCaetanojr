@@ -1,5 +1,5 @@
 ### Hi there 👋 
-- :computer: I’m study in college **FATEC - Analysis and systems development**
+- :Graduated from **FATEC - Analysis and systems development**
 - 🔭 I’m currently working on **Qyon**
 - 🌱 I’m currently learning **Typescript**
 - ⚡ Fun fact: **passionate about technology**
